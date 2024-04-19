@@ -31,7 +31,7 @@ In the following figure we can see the main steps of the project:
 First of all we should select a string to search for, then we need to scrape Twitter for posts containing that string.
 After that, the data will be cleaned, analyzed and presented in a way to show what sentiments are included in the tweets.
 
-![alt text](https://github.com/Nemat-Allah-Aloush/Social-Media-Monitoring/blob/main/imgs/prototype.png "Social Media Monitoring Steps")
+![alt text](https://github.com/nemat-al/Social-Media-Monitoring/blob/main/imgs/prototype.png "Social Media Monitoring Steps")
 
 
 ---
@@ -49,7 +49,7 @@ After scrapping data from Twitter. The following preprocessing pipeline will be 
   - The names will be kept and other tokens will be transformed to their lemmas.
 The Data processing pipeline is shown in the following figure:
 
-![image](https://github.com/Nemat-Allah-Aloush/Social-Media-Monitoring/blob/main/imgs/data_processing.png)
+![image](https://github.com/nemat-al/Social-Media-Monitoring/blob/main/imgs/data_processing.png)
 
 ---
 
